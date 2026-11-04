@@ -28,3 +28,17 @@
 
 &#x20; `docker run -d -p 3000:80 --name frontend-app giathinh261205/frontend-device-management:v1.0`
 
+\## Câu 7: Triển khai Frontend ứng dụng Web trên Render
+
+
+
+\- \*\*URL Frontend\*\*: https://frontend-device-management-237547.onrender.com
+
+
+
+\## Câu 8: Triển khai Backend API ứng dụng Web trên Render
+
+
+
+\- \*\*URL Backend API\*\*: https://backend-device-management-237547.onrender.com
+
